@@ -39,11 +39,16 @@ To run the notebook, follow these steps:
 **Note:** Dependencies are installed automatically via `!pip install` commands in the notebook.
 
 ## Sample Outputs
+
+*An old man walking through a misty forest, holding a lantern, cinematic golden iris hues, atmospheric, mysterious, soft glowing light.*
+
 ![Sample Image 1](outputs/HFImg1.png)
-*Caption for Sample Image 1*
+
+
+
+*dreamlike, beautiful Pakistani girl in vibrant traditional shalwar kameez, joyfully throwing colorful powders during Holi festival, golden sunlight filtering through trees, festive and lively atmosphere, cultural celebration of unity and spring in Karachi streets*
 
 ![Sample Image 2](outputs/HFImg2.png)
-*Caption for Sample Image 2*
 
 ## Contributing
 
