@@ -28,7 +28,7 @@ To run the notebook, follow these steps:
 
 2. **Enable GPU acceleration:**
    - Go to `Runtime > Change runtime type`.
-   - Select `GPU` (e.g., T4 GPU) and save.
+   - Select `GPU` (T4 GPU or any other if you have paid version) and save.
 
 3. **Run all cells sequentially:**
    - This will install dependencies and generate images.
